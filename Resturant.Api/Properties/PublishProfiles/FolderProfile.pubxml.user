@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\Projects\Core &amp; Angular\Resturnat\Api\Resturant.Api\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2023-11-04T13:01:59.4118907Z;True|2023-10-03T23:54:15.6263953+03:00;True|2023-09-27T23:14:42.3115524+03:00;True|2023-09-27T20:43:30.1552266+03:00;True|2023-09-22T18:54:05.6287556+03:00;True|2023-09-21T00:26:56.7243554+03:00;True|2023-09-06T19:32:23.2247584+03:00;True|2023-09-06T19:28:47.4178535+03:00;True|2023-09-06T19:26:40.4737942+03:00;True|2023-09-06T19:25:55.1025218+03:00;True|2023-09-06T19:24:37.9630652+03:00;True|2023-09-06T19:21:34.2034264+03:00;True|2023-09-06T19:05:08.0924073+03:00;True|2023-09-06T17:54:52.1944562+03:00;True|2023-09-06T17:54:22.0379887+03:00;True|2023-09-06T17:33:26.8346038+03:00;True|2023-09-06T17:30:45.0756495+03:00;True|2023-09-06T17:04:44.0527860+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
